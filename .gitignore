@@ -1,3 +1,6 @@
 /BUILD.info
 /.idea/**
 /rough_work/**
+
+# Python related
+__pycache__/
